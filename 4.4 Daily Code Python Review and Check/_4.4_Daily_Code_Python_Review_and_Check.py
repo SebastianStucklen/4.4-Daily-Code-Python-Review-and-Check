@@ -55,6 +55,5 @@ print(marbles[1])
 
 l = 0
 for i in range(4):
-    marbles[l]*=5
-    l+=1
+    marbles[i]*=5
 print(marbles)
